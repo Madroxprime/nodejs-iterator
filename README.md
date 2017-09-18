@@ -11,6 +11,7 @@
  * @param {Function} iterateFunction - the function to be performed on each element of the list
  * @param {callbackFunction} callback - call back after finished.
  */
+ <code>
 function iterate(list, iterateFunction,callback){
     var completed = 0;
 
@@ -26,7 +27,7 @@ function iterate(list, iterateFunction,callback){
     }
 }
 
-module.exports = iterate;</code></pre>
+module.exports = iterate;</code>
         </article>
     </section>
 
