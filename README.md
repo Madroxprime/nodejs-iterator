@@ -13,6 +13,7 @@
  */
  <code>
 function iterate(list, iterateFunction,callback){
+    
     var completed = 0;
 
     function done(){
